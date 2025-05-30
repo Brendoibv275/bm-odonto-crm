@@ -1,0 +1,5 @@
+{
+  "name": "BM Odonto CRM",
+  "description": "Sistema de Gerenciamento de Relacionamento com o Cliente (CRM) para clínicas odontológicas. Inclui módulos para Pacientes, Agenda, Financeiro e Odontograma. Esta versão inicial foca na estrutura da aplicação e no cadastro de pacientes.",
+  "requestFramePermissions": []
+}
